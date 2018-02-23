@@ -1,4 +1,3 @@
-$b=10;
 echo $n
 for i in $@
 do
